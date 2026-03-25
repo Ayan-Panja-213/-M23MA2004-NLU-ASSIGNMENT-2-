@@ -2,6 +2,10 @@
 
 Q1
 
+no need to upload any dataset
+
+pip install requests beautifulsoup4 wordcloud pdfminer.six PyPDF2
+
 python m23ma2004_a2_prob1.py
 
 
